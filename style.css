@@ -8,7 +8,12 @@ body{
 font-size: 30px;
 font-weight: bold;
 }
-
+.in-middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 .move-icon{
 height: 50px;
 /* background-color:; */
